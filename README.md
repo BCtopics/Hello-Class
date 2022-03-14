@@ -14,13 +14,11 @@ After completing this project you will be able to:
 
 ### Main Screen
 
-Build a UIViewController that contains a photo, your name, some fun facts and a UIButton that will lead to the Interests Screen where they can learn more about you.
+Build a UIViewController that contains a photo, your name and a UIButton that will lead to the Interests Screen where they can learn more about you.
 
 1. Open the only UIVIewController scene in Main.storyboard
 2. Use UIImageView, UILabels, and UIButtons to create the view described above.
 3. Make sure everything in constrained correctly. Test the view to confirm it works on multiple simulators.
-
-Hint - >! To load a UIImage you will need to put that image inside of the Assets area in Xcode.
 
 <details>
   <summary>Image Hint</summary>
@@ -34,8 +32,18 @@ Hint - >! To load a UIImage you will need to put that image inside of the Assets
 Build another UIViewController. This time, it will contain a StackView of buttons. Make each button's title a interest you have. You should have between 5-10 buttons.
 
 1. Create a new UIViewController inside of Main.storyboard. Don't forget to create a new file/class.
-2. Use StackViews and UIButtons to create teh view described above.
+2. Use StackViews and UIButtons to create the view described above.
 3. Make sure everything in constrained correctly. Test the view to confirm it works on multiple simulators.
+4. Each Interest should lead to another view with more details about that interest. Use segues.
+5. Embed this view inside a navigation controller.
+
+### Interest Detail Screen
+
+1. Create a new UIViewController inside of Main.storyboard. Don't forget to create a new file/class. You will need to do this for each interest you have.
+2. 
+3. Design these however you like. The only requirement is to have more information about that interest and how that relates to you.
+4. Make sure the title from the navigation controller matches the interest you clicked on.
+5. You should be able to go back to the interests screen to click on other interests.
 
 ### Tests
 
