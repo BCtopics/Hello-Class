@@ -6,9 +6,12 @@ Hello Class is a way for students to say "Hello" to their classmates and me. Doi
 
 After completing this project you will be able to:
 
-* Option 1
-* Option 2
-* Option 3
+* Create new scenes inside of storyboard
+* Add new elements to those scenes
+* Edit properties of UIView objects
+* Create and use segues to navigate different views
+* Use UINavigationController
+* Test an app using simulator
 
 ## Guide
 
@@ -16,7 +19,7 @@ After completing this project you will be able to:
 
 Build a UIViewController that contains a photo, your name and a UIButton that will segue to the Interests Screen where they can learn more about you.
 
-1. Open the only UIVIewController scene in Main.storyboard
+1. Open the only UIViewController scene in Main.storyboard
 2. Use UIImageView, UILabels, and UIButtons to create the view described above.
 3. Make sure everything in constrained correctly. Test the view to confirm it works on multiple simulators.
 
@@ -59,6 +62,7 @@ Do NOT read these until after you finish the project. Do not focus on these at a
 
 * Add Background colors to each view
 * Style the Labels and Buttons to look different then the default
+* Install the app on a real iPhone device
 * Have all the detail screens share one ViewController inside storyboard that changes the information dynamically depending on which interest you click on
 
 ## License / Copyright
