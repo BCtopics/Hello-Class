@@ -47,16 +47,19 @@ Build another UIViewController. This time, it will contain a StackView of button
 
 ### Tests
 
-* 3 UIViews
-* 2 TextViews
-* 1 Segue etc
+* All screens work on multiple phone sizes
+* UIViewController files for each ViewController inside of Main.storyboard
+* Segues are Show segues
+* All views share one NavigationController
+* Other specs can be read from the guide above
 
 ### Stretch Goals
 
-* Additional more challenging goal
-* Additional more challenging goal
-* Additional more challenging goal
+Do NOT read these until after you finish the project. Do not focus on these at all until everythig else is complete.
 
+* Add Background colors to each view
+* Style the Labels and Buttons to look different then the default
+* Have all the detail screens share one ViewController inside storyboard that changes the information dynamically depending on which interest you click on
 
 ## License / Copyright
 
