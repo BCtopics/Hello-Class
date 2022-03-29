@@ -21,7 +21,7 @@ Build a UIViewController that contains a photo, your name and a UIButton that wi
 
 1. Open the only UIViewController scene in Main.storyboard
 2. Use UIImageView, UILabels, and UIButtons to create the view described above.
-3. Make sure everything in constrained correctly. Test the view to confirm it works on multiple simulators.
+3. Make sure everything is constrained correctly. Test the view to confirm it works on multiple simulators.
 
 <details>
   <summary>Image Hint</summary>
@@ -32,7 +32,7 @@ Build a UIViewController that contains a photo, your name and a UIButton that wi
 
 ### Interests Screen
 
-Build another UIViewController. This time, it will contain a StackView of buttons. Make each button's title a interest you have. You should have between 5-10 buttons.
+Build another UIViewController. This time, it will contain a StackView of buttons. Make each button's title a interest you have. You should have 5 buttons.
 
 1. Create a new UIViewController inside of Main.storyboard. Don't forget to create a new file/class.
 2. Use a StackView and UIButtons to create the view described above.
