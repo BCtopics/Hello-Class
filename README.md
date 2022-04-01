@@ -19,15 +19,15 @@ After completing this project you will be able to:
 
 Build a UIViewController that contains a photo, your name and a UIButton that will segue to the Interests Screen where they can learn more about you.
 
-1. Open the only UIViewController scene in Main.storyboard
+1. Open Main.storyboard and locate the only UIViewController scene.
 2. Use UIImageView, UILabels, and UIButtons to create the view described above.
 3. Make sure everything is constrained correctly. Test the view to confirm it works on multiple simulators.
 
 <details>
   <summary>Image Hint</summary>
 
-  To load a UIImage you will need to put that image inside of the Assets area in Xcode.
-
+  * To load a UIImage you will need to put that image inside of the Assets area in Xcode.
+  * PNG files work best for this project
 </details>
 
 ### Interests Screen
@@ -39,7 +39,7 @@ Build another UIViewController. This time, it will contain a StackView of button
 3. Create a segue from the Main Screen's UIButton to the Interest Screen. Use the "Show" segue.
 4. Embed the Main Screen view inside a navigation controller.
 5. Create a segue from the Main Screen's UIButton to the Interest Screen. Use the "Show" segue.
-6. Make sure everything in constrained correctly. Test the view to confirm it works on multiple simulators.
+6. Make sure everything is constrained correctly. Test the view to confirm it works on multiple simulators.
 
 ### Interest Detail Screen
 
