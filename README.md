@@ -15,13 +15,23 @@ After completing this project you will be able to:
 
 ## Guide
 
+### Getting Started
+
+1. Fork this project by clicking the fork icon on GitHub.
+2. Clone your forked version of the project down using Git. 
+
+Note: If you need a refresher on this checkout the GitHub overview video in your Precourse work.
+
+3. Create a new project, name it Hello-Class, and save it inside of your newly cloned folder.
+
 ### Main Screen
 
 Build a UIViewController that contains a photo, your name and a UIButton that will segue to the Interests Screen where they can learn more about you.
 
 1. Open Main.storyboard and locate the only UIViewController scene.
 2. Use UIImageView, UILabels, and UIButtons to create the view described above.
-3. Make sure everything is constrained correctly. Test the view to confirm it works on multiple simulators.
+3. Setup constraints for whatever elements you added in step 2.
+4. Make sure everything is constrained correctly. Test the view to confirm it works on multiple simulators.
 
 <details>
   <summary>Image Hint</summary>
