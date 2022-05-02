@@ -34,7 +34,7 @@ Build a UIViewController that contains a photo, your name and a UIButton that wi
 4. Make sure everything is constrained correctly. Test the view to confirm it works on multiple simulators.
 
 <details>
-  <summary>Image Hint</summary>
+  <summary>Image Hint (Click Me)</summary>
 
   * To load a UIImage you will need to put that image inside of the Assets area in Xcode.
   * PNG files work best for this project
