@@ -2,7 +2,7 @@
 
 ### Description
 
-Hello Class is a way for students to say "Hello" to their classmates and me. Doing so will help them solidify what they've learned in the guided project for the day.
+Hello Class is a way for students to say "Hello" to their classmates and I. Doing so will help them solidify what they've learned in the guided project for the day.
 
 After completing this project you will be able to:
 
